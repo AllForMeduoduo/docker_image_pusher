@@ -1,1 +1,2 @@
 nacos/nacos-server:v2.4.0
+spryker/redis-commander:0.8.0
