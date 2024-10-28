@@ -9,3 +9,4 @@ coopersoft/canal-adapter:v1.1.6
 elasticsearch:7.17.14
 kibana:7.17.14
 xuxueli/xxl-job-admin:2.4.1
+zookeeper:3.4.13
